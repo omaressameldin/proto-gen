@@ -1,4 +1,5 @@
 # Proto Gen
+A docker image to build generate a `.pb.go` file from a `proto3` file
 ## How to use:
 ### start container with these volumes:
 * volume for directory `BUILD_PATH` that has `proto3` file
